@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Academic Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_lecture">LectureActivity</string>
+
+    <string name="day_hint">Day</string>
+    <string name="code_hint">Code</string>
+    <string name="subject_hint">Subject</string>
+    <string name="add_hint">Add</string>
+    <string name="start_time">Start Time</string>
+    <string name="hand_in">Submission Time</string>
+    <string name="end_time">End Time</string>
+    <string name="date_hint">Date</string>
+    <string name="status_hint">Offline or Online</string>
+
+</resources>
